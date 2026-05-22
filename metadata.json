@@ -1,0 +1,6 @@
+{
+  "name": "NeoRecorder",
+  "description": "A beautiful neomorphic audio recorder that supports multiple formats like WAV, AAC, and MP3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
